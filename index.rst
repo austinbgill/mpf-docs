@@ -94,8 +94,8 @@ Click the "Read the Docs" link in the lower left corner for other versions.
    You can download PDF, Epub, and HTML versions of these docs. Click the "Read the Docs" link in the
    lower left corner for the links.
 
-Overview
---------
+Main
+----
 * :doc:`MPF Overview </start/index>`
 * :doc:`MPF Versions </versions/index>`
 * :doc:`Compatible Pinball Machines </machines/index>`
