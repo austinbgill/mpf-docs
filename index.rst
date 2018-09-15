@@ -96,26 +96,26 @@ Click the "Read the Docs" link in the lower left corner for other versions.
 
 Overview
 --------
-* :doc:`MPF Overview </start/index>`: What MPF is and how it works.
-* :doc:`MPF Versions </versions/index>`: Understanding MPF versions & features.
-* :doc:`Compatible Pinball Machines </machines/index>`: What types of machines work with MPF?
-* :doc:`Supported Hardware </hardware/index>`: What types of pinball control systems work with MPF?
+* :doc:`MPF Overview </start/index>`
+* :doc:`MPF Versions </versions/index>`
+* :doc:`Compatible Pinball Machines </machines/index>`
+* :doc:`Supported Hardware </hardware/index>`
 
 Installation & First Steps
 --------------------------
-* :doc:`/install/index`: How to download and install MPF.
-* :doc:`/tutorial/index`: Step-by-step beginner's guide.
+* :doc:`/install/index`
+* :doc:`/tutorial/index`
 
 MPF User Manual
 ---------------
-* :doc:`/mechs/index`: switches, coils, lights, troughs, flippers, etc.
-* :doc:`/game_logic/index`: modes, scoring, multiballs, ball saves, etc.
-* :doc:`/displays/index`: DMDs, LCDs, slides, widgets, animations, text, etc.
-* :doc:`/segment_displays/index`: 7-segment displays and other segment displays
-* :doc:`/mc/index`: The MPF Media Controller (MPF-MC), the Unity 3D Backbox Server, creating your own MC
-* :doc:`/sound/index`: sound tracks, music, volume, sound effects
-* :doc:`/shows/index`: sequences of lights, sounds, slides, etc.
-* :doc:`/assets/index`: videos, images, animations, sound files
+* :doc:`/mechs/index`
+* :doc:`/game_logic/index`
+* :doc:`/displays/index`
+* :doc:`/segment_displays/index`
+* :doc:`/mc/index`
+* :doc:`/sound/index`
+* :doc:`/shows/index`
+* :doc:`/assets/index`
 
 Examples
 --------
@@ -126,10 +126,10 @@ Examples
 
 Reference Guides
 ----------------
-* :doc:`/events/index`: All the standard events MPF has, and how to use them.
-* :doc:`/config/index`: Lists every config setting and all the options.
-* :doc:`/player_vars/index`: Lists all the built-in player variables and parameters.
-* :doc:`/machine_vars/index`: Lists all the standard machine variables.
+* :doc:`/events/index`
+* :doc:`/config/index`
+* :doc:`/player_vars/index`
+* :doc:`/machine_vars/index`
 
 Developer Documentation
 -----------------------
