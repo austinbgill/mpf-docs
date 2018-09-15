@@ -1,5 +1,5 @@
-MPF Overview
-============
+Summary
+=======
 
 The Mission Pinball Framework (which we call "MPF") is free and open source
 software that you run on a computer (Windows, Mac, Linux, Raspberry Pi, etc.)
